@@ -6,3 +6,5 @@
 <p>Example of <sub>Texto inferior</sub></p>
 <p>Example of <del>Texto taxado</del></p>
 <p>Example of <code>Texto de código de computador</code></p>
+
+<a href="https://www.w3schools.com/">Entre em contato/a>
