@@ -7,4 +7,4 @@
 <p>Example of <del>Texto taxado</del></p>
 <p>Example of <code>Texto de código de computador</code></p>
 
-<a href="https://www.w3schools.com/">Entre em contato/a>
+<a href="https://api.whatsapp.com/send?phone=5511994119820&text=Ol%C3%A1!">Entre em contato/a>
